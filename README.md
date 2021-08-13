@@ -5,3 +5,8 @@ python yolo_video.py --input videos/overpass.mp4 --output output/highway_output.
 
 #### YOLO: Real-Time Object Detection
 https://pjreddie.com/darknet/yolo/
+
+##### NOTE: We have done video count part too on a highways video, if you want you can get it freely via mail!
+
+Thanks
+Give feedback and star, If you like our work.
